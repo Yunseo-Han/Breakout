@@ -72,12 +72,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: eab0e7b2c0059a2498d42f307a2d9001, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ad2a9043e1b397c4695a3b46bd6d9f03, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.28, y: 1.28}
+  m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -117,9 +117,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.006907344, y: 0.013815165}
+  m_Offset: {x: -0.001030162, y: 0.0010601878}
   serializedVersion: 2
-  m_Radius: 0.20827317
+  m_Radius: 0.24582916
 --- !u!114 &7811607491211745441
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -132,7 +132,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c189b33a2eaf9794ca892e3d02887c22, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  paddle1: {fileID: 6179581897122437792, guid: 5f571a226f9d7274c9decf3457ba0985, type: 3}
+  paddle1: {fileID: 0}
   xVelocity: 2
   yVelocity: 13
 --- !u!82 &6442092418871108451
