@@ -1300,6 +1300,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 51824337897936535, guid: bbd203e99abd5d04ca7bb6a26a65dfe6,
+        type: 3}
+      propertyPath: breakSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 8ff1d42e2983afd469ae67b94506672f, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbd203e99abd5d04ca7bb6a26a65dfe6, type: 3}
 --- !u!4 &2101907308 stripped
@@ -1870,6 +1875,16 @@ PrefabInstance:
       propertyPath: paddle1
       value: 
       objectReference: {fileID: 1297489894}
+    - target: {fileID: 6442092418871108451, guid: c014015530d1af145b4f4b3960bc0b91,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: bd31ed744cb15144eba450bb006c015f, type: 3}
+    - target: {fileID: 6442092418871108451, guid: c014015530d1af145b4f4b3960bc0b91,
+        type: 3}
+      propertyPath: m_Pitch
+      value: 1.37
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c014015530d1af145b4f4b3960bc0b91, type: 3}
 --- !u!1001 &9015566267089434644
