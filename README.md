@@ -1,2 +1,2 @@
-# Block-Breaker
-Unity block breaker game with physics and sound.
+# Breakout
+Unity Breakout game with physics and sound.
